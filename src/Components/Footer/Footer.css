@@ -1,0 +1,5 @@
+.rotate-360:hover {
+  transform: rotate(360deg) scale(1.2);
+  transition: ease-in-out 0.7s; /* You can adjust the duration as needed */
+
+}

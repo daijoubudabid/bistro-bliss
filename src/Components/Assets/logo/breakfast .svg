@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>Ellipse 42-svg</title>
+	<defs>
+		<image width="96" height="100" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCA0OCA1MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgaWQ9InRlYSAxIiBjbGlwLXBhdGg9InVybCgjY2xpcDBfMF8xMjE1KSI+CjxnIGlkPSJHcm91cCI+CjxwYXRoIGlkPSJWZWN0b3IiIGQ9Ik0yMCAzVjEwIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGlkPSJWZWN0b3JfMiIgZD0iTTEwIDVWMTIiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggaWQ9IlZlY3Rvcl8zIiBkPSJNMzAgNVYxMiIgc3Ryb2tlPSIjNDc0NzQ3IiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBpZD0iVmVjdG9yXzQiIGQ9Ik0zNyAyM0g0NVYzMUM0NSAzMy4yMDkgNDMuMjA5IDM1IDQxIDM1SDM3IiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGlkPSJWZWN0b3JfNSIgZD0iTTI1IDQ3SDE1QzguMzczIDQ3IDMgNDEuNjI3IDMgMzVWMTlIMzdWMzVDMzcgNDEuNjI3IDMxLjYyNyA0NyAyNSA0N1oiIHN0cm9rZT0iIzQ3NDc0NyIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPHBhdGggaWQ9IlZlY3Rvcl82IiBkPSJNMjggMjdIMThWMzdIMjhWMjdaIiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGlkPSJWZWN0b3JfNyIgZD0iTTIzIDE5VjI3IiBzdHJva2U9IiM0NzQ3NDciIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjwvZz4KPC9nPgo8ZGVmcz4KPGNsaXBQYXRoIGlkPSJjbGlwMF8wXzEyMTUiPgo8cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNTAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+		.s0 { opacity: .1;fill: #4d592b } 
+	</style>
+	<use id="tea 1" href="#img1" transform="matrix(.5,0,0,.5,26,25)"/>
+	<path id="Ellipse 42" class="s0" d="m50 100c-27.7 0-50-22.3-50-50 0-27.7 22.3-50 50-50 27.7 0 50 22.3 50 50 0 27.7-22.3 50-50 50z"/>
+</svg>
